@@ -25,7 +25,7 @@
 
 ```powershell
 # 1. 获取代码
-git clone https://github.com/<your-name>/HBUT-NetLogin.git
+git clone https://github.com/Wcowin/HBUT-NetLogin.git
 cd HBUT-NetLogin
 
 # 2. 配置账号密码
