@@ -1,0 +1,12 @@
+# credentials - NEVER commit
+config.ps1
+
+# runtime logs
+*.log
+login.log
+
+# editor / os
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
